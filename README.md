@@ -15,3 +15,8 @@ The eight categories of Indian classical dance are as follows:
 -Sattriya
 -Kuchipudi
 -Mohiniyattam
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson
