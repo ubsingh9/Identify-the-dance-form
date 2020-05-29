@@ -7,16 +7,11 @@ You are appointed as a Machine Learning Engineer for this project. Your task is 
 
 The eight categories of Indian classical dance are as follows:
 
--Manipuri
--Bharatanatyam
--Odissi
--Kathakali
--Kathak
--Sattriya
--Kuchipudi
--Mohiniyattam
-
-
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Manipuri
+- Bharatanatyam
+- Odissi
+- Kathakali
+- Kathak
+- Sattriya
+- Kuchipudi
+- Mohiniyattam
